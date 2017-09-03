@@ -1,11 +1,12 @@
 # gettingStartedWithArduino
 A brief introduction to Arduino
 
-This page is at 
+This page is at github.com/michaelshiloh/gettingStartedWithArduino/
 
-Arduino Examples
+Arduino
+[Examples](http://teachmetomake.com/wordpress/arduino-project-examples)
 
-The workshop will focus on getting you up and running with Arduino quickly, so that you will understand the basic procedures for working with Arduino and can explore further on your own.
+The will focus on getting you started with Arduino quickly, so that you will understand the basic procedures for working with Arduino and can explore further on your own.
 
 We will cover how to install Arduino on your laptop; how to understand, modify, and write Arduino programs; how to connect sensors to Arduino and read them from a program; and how to connect actuators (LEDs, motors, speakers) and control them from a program. Other topics will be covered as interest dictates and time permits.
 
@@ -231,11 +232,16 @@ Where to go next
         Sparkfun
         Tronixstuff
         NYU ITP
-    Local shops with very knowledgeable staff
-        Al lasher’s (Berkeley)
     Online resources
         Arduino forum
         Arduino Google+
         Massive list of resources
         Sensor workshop at ITP, including long list of different sensors
         Michael’s pages
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This
+work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution-ShareAlike 4.0 International License</a>.
