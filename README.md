@@ -3,6 +3,8 @@ A brief introduction to Arduino
 
 This page is at github.com/michaelshiloh/gettingStartedWithArduino/
 
+I apologize for the mess. This page was copied from a wiki and has not yet been reformatted.
+
 Arduino
 [Examples](http://teachmetomake.com/wordpress/arduino-project-examples)
 
